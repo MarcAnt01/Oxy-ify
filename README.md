@@ -1,5 +1,7 @@
 # Oxy-ify
 
+## This module won't be updated any longer here, as it is in [Magisk Modules Repo](https://github.com/Magisk-Modules-Repo). Check [here](https://github.com/Magisk-Modules-Repo/Oxy-ify) to see the new repository.
+
 Oxy-ify is a fantastic Magisk Module that will turn your Android phone into a OnePlus device by adding:
 
 - the Oxygen OS boot animation;
@@ -12,9 +14,11 @@ A Unity installer is included in the module. That means that you can choose to i
 
 # [Download](https://drive.google.com/drive/folders/1SXI5AMUND_BKF-J-w-SVGQtzR8E8sS3F)
 
-# How to reach me out
+# How to reach out to me
 - [Oxy-ify XDA thread](https://forum.xda-developers.com/apps/magisk/oxy-ify-magisk-module-add-oxygen-os-t3888094);
 - [Oxy-ify support group on Telegram](https://t.me/oxyify).
+
+# [Changelog](https://github.com/MarcAnt01/Oxy-ify/releases)
 
 # Wiki
 Visit [the Oxy-ify wiki](https://github.com/MarcAnt01/Oxy-ify/wiki) for further information about supported devices, apps, and more.
